@@ -5,7 +5,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw
 
 
-from pyrogram import Client, api
+from pyrogram import Client
 
 from config import Config
 
