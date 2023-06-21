@@ -1,2 +1,2 @@
-pyrogram[fast]
+pyrogram
 pillow
